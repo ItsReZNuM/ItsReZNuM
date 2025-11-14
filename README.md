@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-Hi, I'm Reza Mohamadnia, Senior Python Developer 🐍  
+Hi, I'm Reza Mohamadnia, Mid-leve Python 🐍 & Junior C++ Dev.  
 College student at Lorestan University, Iran, passionate about tech and innovation.  
 I love building tools that solve real-world problems, from AI to automation, and I'm always exploring new tech stacks!  
 When I'm not coding, you might find me editing videos or diving into the latest tech trends. 🚀

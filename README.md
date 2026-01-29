@@ -125,11 +125,14 @@ When I'm not coding, you might find me editing videos or diving into the latest 
   <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/main/profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" />
   <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" />
 </p>
+
 ---
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 
 ---
 

@@ -113,17 +113,17 @@ When I'm not coding, you might find me editing videos or diving into the latest 
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/output/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/output/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Top Languages by Repo" />
-  <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/output/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Top Languages by Commit" />
+  <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/output/profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/output/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/main/profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" />
 </p>
 ---
 

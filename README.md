@@ -14,6 +14,7 @@ I love building tools that solve real-world problems, from AI to automation, and
 When I'm not coding, you might find me editing videos or diving into the latest tech trends. 🚀
 
 ---
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ItsReZNuM&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -22,7 +23,7 @@ When I'm not coding, you might find me editing videos or diving into the latest 
   <img src="https://img.shields.io/badge/Joined%20GitHub-2022-blueviolet?style=flat" alt="Joined GitHub" />
 </p>
 
----
+<br><br>
 
 ## 🌐 Socials:
 
@@ -43,6 +44,8 @@ When I'm not coding, you might find me editing videos or diving into the latest 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<br><br>
 
 # 💻 Tech Stack:
 
@@ -97,6 +100,9 @@ When I'm not coding, you might find me editing videos or diving into the latest 
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" />
 </p>
 
+<br><br>
+
+# Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/output/github-contribution-grid-snake.svg">
@@ -104,11 +110,12 @@ When I'm not coding, you might find me editing videos or diving into the latest 
 </picture>
 
 <p align="center">
-  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsReZNuM&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
----
+
+<br><br>
 
 # 📊 GitHub Stats:
 
@@ -134,8 +141,18 @@ When I'm not coding, you might find me editing videos or diving into the latest 
 </p>
 
 
----
+
+
+# Give me A Coffee
+### If you Ever Enjoyed My projects and wanted to support me , you can donate me via this button:
+<a href="https://coffeebede.com/itsreznum" style="display:flex;justify-content:center;">
+  <img class="img-fluid" src="assets/coffee.png" alt="Give Me A Coffee">
+</a>
+
+<br><br><br><br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
+

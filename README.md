@@ -9,29 +9,14 @@
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/main/profile/streak-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/main/profile/streak-light.svg"
-  />
-
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/main/profile/streak-light.svg"
-    alt="Reza's GitHub streak"
-  />
-</picture>
-
-<br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=ItsReZNuM&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
   <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=ItsReZNuM&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Reza's GitHub stats" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=ItsReZNuM&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=ItsReZNuM&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+</div>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 <div align="center">
